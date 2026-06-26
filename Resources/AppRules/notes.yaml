@@ -1,0 +1,4 @@
+app_name: Notes
+bundle_id: com.apple.Notes
+default: block
+zones: []

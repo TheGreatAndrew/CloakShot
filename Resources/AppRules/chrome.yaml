@@ -1,0 +1,10 @@
+app_name: Google Chrome
+bundle_id: com.google.Chrome
+default: allow
+zones:
+  - name: bookmarks_bar
+    action: block
+    region: top
+  - name: extensions_bar
+    action: block
+    region: top_right

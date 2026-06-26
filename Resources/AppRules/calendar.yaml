@@ -1,0 +1,4 @@
+app_name: Calendar
+bundle_id: com.apple.iCal
+default: block
+zones: []

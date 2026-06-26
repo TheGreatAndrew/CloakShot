@@ -1,0 +1,4 @@
+app_name: Terminal
+bundle_id: com.apple.Terminal
+default: allow
+zones: []

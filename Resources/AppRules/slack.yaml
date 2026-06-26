@@ -1,0 +1,13 @@
+app_name: Slack
+bundle_id: com.tinyspeck.slackmacgap
+default: block
+zones:
+  - name: message_area
+    action: allow
+    region: center
+  - name: sidebar
+    action: block
+    region: left
+  - name: title_bar
+    action: allow
+    region: top

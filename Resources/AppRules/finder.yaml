@@ -1,0 +1,8 @@
+app_name: Finder
+bundle_id: com.apple.finder
+default: allow
+zones:
+  - name: sidebar
+    action: block
+    region: left
+    width_ratio: 0.2

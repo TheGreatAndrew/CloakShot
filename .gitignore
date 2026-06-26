@@ -1,0 +1,25 @@
+# Build
+.build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+*.swp
+*.lock
+Profile.xcconfig
+
+# Secrets (should never exist here, but just in case)
+.env
+.env.*
+*.pem
+*.p12
+*.key
+*.cer
+*.mobileprovision
+
+# IDE
+.idea/
+.vscode/
+*.xcworkspace/contents.xcworkspacedata

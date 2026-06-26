@@ -1,0 +1,4 @@
+app_name: Mail
+bundle_id: com.apple.mail
+default: block
+zones: []

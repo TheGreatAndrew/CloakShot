@@ -1,0 +1,4 @@
+app_name: Messages
+bundle_id: com.apple.MobileSMS
+default: block
+zones: []
